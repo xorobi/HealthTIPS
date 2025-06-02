@@ -1,1 +1,1 @@
-# HealthTIPS
+# Mental and Physical Health Guide\n\nThis repository offers practical tips to maintain mental and physical well-being.\n\n## Key Tips\n1. **Practice Mindfulness**: Spend 5-10 minutes daily on meditation to reduce stress.
