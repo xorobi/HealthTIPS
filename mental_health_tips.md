@@ -3,3 +3,4 @@
 \n3. **Stay Connected**: Regularly call or meet friends and family to boost emotional health.
 \n4. **Manage Stress**: Practice deep breathing or yoga to reduce stress and anxiety.
 \n5. **Seek Therapy**: Consult a licensed therapist for professional mental health support.
+\n6. **Limit Screen Time**: Reduce device use before bed to improve mental clarity and sleep.
